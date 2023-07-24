@@ -41,19 +41,6 @@ const cloud = {
       others: 'Others',
     },
   },
-  congrats: {
-    page_title: 'Earn early credits',
-    title: 'Great news! You are qualified to earn Logto Cloud early credit!',
-    description:
-      'Don’t miss out on a chance to enjoy a free <strong>60 days</strong> subscription to Logto Cloud after its official launch! Contact the Logto team now to learn more.',
-    check_out_button: 'Check out the live preview',
-    email_us_title: 'Email us for a special offer and pricing details',
-    email_us_description: 'Get exclusive pricing to save money',
-    email_us_button: 'Send email',
-    join_description: 'Join our public <a>{{link}}</a> to connect and chat with other developers.',
-    discord_link: 'discord channel',
-    enter_admin_console: 'Enter Logto Cloud Preview',
-  },
   gift: {
     title: 'Use Logto Cloud free for 60 days. Join the front-runners now!',
     description: 'Book a one-on-one session with our team for early credit.',

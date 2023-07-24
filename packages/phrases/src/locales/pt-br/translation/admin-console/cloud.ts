@@ -41,20 +41,6 @@ const cloud = {
       others: 'Outros',
     },
   },
-  congrats: {
-    page_title: 'Ganhe créditos antecipados',
-    title: 'Ótimas notícias! Você está qualificado para ganhar crédito antecipado da Logto Cloud!',
-    description:
-      'Não perca a chance de desfrutar de uma assinatura gratuita de <strong>60 dias</strong> da Logto Cloud após o lançamento oficial! Entre em contato com a equipe da Logto agora para obter mais informações.',
-    check_out_button: 'Confira a visualização ao vivo',
-    email_us_title: 'Envie-nos um e-mail para uma oferta especial e detalhes de preços',
-    email_us_description: 'Obtenha preços exclusivos para economizar dinheiro',
-    email_us_button: 'Enviar e-mail',
-    join_description:
-      'Junte-se a nosso <a>{{link}}</a> público para se conectar e conversar com outros desenvolvedores.',
-    discord_link: 'canal Discord',
-    enter_admin_console: 'Entrar na visualização Logto Cloud',
-  },
   gift: {
     title: 'Use a nuvem Logto gratuitamente por 60 dias. Junte-se aos primeiros usuários agora!',
     description: 'Agende uma sessão individual com nossa equipe para crédito antecipado.',

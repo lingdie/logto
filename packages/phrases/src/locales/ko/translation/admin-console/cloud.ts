@@ -41,19 +41,6 @@ const cloud = {
       others: '기타',
     },
   },
-  congrats: {
-    page_title: '조기 선물 획득하기',
-    title: '좋은 소식입니다! Logto Cloud 조기 크레딧을 받을 자격이 있습니다!',
-    description:
-      '공식 출시 후 Logto Cloud를 <strong>60일</strong> 동안 무료로 구독할 수 있는 기회를 놓치지 마세요! 지금 Logto 팀에 문의하여 자세히 알아보세요.',
-    check_out_button: 'Live Preview 확인하기',
-    email_us_title: '특별 제안과 가격 세부 정보를 위해 이메일을 보내주세요',
-    email_us_description: '돈을 절약하기 위해 독점적인 가격을 받아보세요',
-    email_us_button: '이메일을 보내기',
-    join_description: '공식 <a>{{link}}</a>에 참여하여 다른 개발자들과 연결하고 채팅하세요.',
-    discord_link: '디스코드 채널',
-    enter_admin_console: 'Logto Cloud Preview 참여하기',
-  },
   gift: {
     title: '60일 동안 Logto Cloud를 무료로 사용해 보세요. 지금 선발 주자가 되어 보세요!',
     description: '팀과의 일대일 세션을 예약하여 조기 크레딧을 받으세요.',

@@ -41,20 +41,6 @@ const cloud = {
       others: 'その他',
     },
   },
-  congrats: {
-    page_title: '早期クレジットを獲得',
-    title: '素晴らしい！あなたはLogto Cloudの早期クレジットを獲得する資格があります！',
-    description:
-      'Logto Cloudの正式開始後、無料で60日間のサブスクリプションを楽しむチャンスを逃さないでください！ 詳しくは今すぐLogtoチームにお問い合わせください。',
-    check_out_button: 'ライブプレビューをチェックアウト',
-    email_us_title: '特別オファーや価格詳細のためにメールを送信してください',
-    email_us_description: 'お金を節約するために独占的な価格を手に入れる',
-    email_us_button: 'メールを送信する',
-    join_description:
-      '他の開発者と接続してチャットできるパブリック<a>{{link}}</a>に参加してください。',
-    discord_link: 'discordチャンネル',
-    enter_admin_console: 'Logto Cloud Previewに入る',
-  },
   gift: {
     title: '早期クレジット獲得で60日間無料利用可能',
     description: '早期クレジットのためにLogtoチームとの一対一のセッションを予約してください。',

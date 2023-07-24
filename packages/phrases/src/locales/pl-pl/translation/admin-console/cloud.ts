@@ -41,21 +41,6 @@ const cloud = {
       others: 'Inne',
     },
   },
-  congrats: {
-    page_title: 'Zarób wczesne kredyty',
-    title: 'Wspaniała wiadomość! Kwalifikujesz się do zyskania wczesnego kredytu na chmurę Logto!',
-    description:
-      'Nie przegap szansy na bezpłatną <strong>60-dniową</strong> subskrypcję na chmurę Logto po jej oficjalnym uruchomieniu! Skontaktuj się z zespołem Logto, aby dowiedzieć się więcej.',
-    check_out_button: 'Zobacz podgląd na żywo',
-    email_us_title:
-      'Napisz do nas maila w celu uzyskania oferty specjalnej i szczegółów dotyczących ceny',
-    email_us_description: 'Uzyskaj wyłączną ofertę cenową na oszczędność pieniędzy',
-    email_us_button: 'Wyślij e-mail',
-    join_description:
-      'Dołącz do naszej publicznej <a>{{link}}</a>, aby połączyć się i rozmawiać z innymi deweloperami.',
-    discord_link: 'kanał discord',
-    enter_admin_console: 'Wejdź do podglądu chmury Logto',
-  },
   gift: {
     title: 'Używaj Logto Cloud za darmo przez 60 dni. Dołącz do pionierów już teraz!',
     description: 'Zarezerwuj spotkanie z naszym zespołem i zdobądź wczesny kredyt.',

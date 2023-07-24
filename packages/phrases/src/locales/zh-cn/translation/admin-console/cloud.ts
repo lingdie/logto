@@ -40,19 +40,6 @@ const cloud = {
       others: '其他',
     },
   },
-  congrats: {
-    page_title: '获得早鸟惊喜',
-    title: '好消息！你有资格获得 Logto Cloud 的早鸟惊喜。',
-    description:
-      '别错过：立即联系 Logto 团队，了解更多信息，获得 Logto Cloud 正式版 <strong>60 天</strong> 的免费试用机会！',
-    check_out_button: '查看实时预览',
-    email_us_title: '跟 Logto 联系以获得特殊折扣和定价细节',
-    email_us_description: '享受独家价格优惠',
-    email_us_button: '发送邮件',
-    join_description: '加入我们的公开 <a>{{link}}</a>，与其他开发人员连接和聊天。',
-    discord_link: 'Discord 频道',
-    enter_admin_console: '进入 Logto Cloud 预览',
-  },
   gift: {
     title: '免费使用 Logto Cloud 60 天，立即成为尝鲜会员！',
     description: '预定与我们团队的一对一会话，以获取早鸟惊喜。',

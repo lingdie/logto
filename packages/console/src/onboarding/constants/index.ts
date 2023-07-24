@@ -9,8 +9,6 @@ export const emailUsLink = buildUrl(contactEmailLink, {
   subject: 'Cloud pricing and special offer',
 }).replaceAll('+', '%20');
 
-export const aboutCloudPreviewLink = 'https://docs.logto.io/about/cloud-preview?utm_source=console';
-
 export const gtagAwTrackingId = 'AW-11124811245';
 /** This ID indicates a user has truly signed up for Logto Cloud. */
 export const gtagSignUpConversionId = `AW-11192640559/ZuqUCLvNpasYEK_IiNkp`;

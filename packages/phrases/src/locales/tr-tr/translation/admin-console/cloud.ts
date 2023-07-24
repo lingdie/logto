@@ -41,20 +41,6 @@ const cloud = {
       others: 'Diğerleri',
     },
   },
-  congrats: {
-    page_title: 'Erken kredi kazanın',
-    title: 'Harika haber! Logto Cloud erken kredisi kazanmaya hak kazandınız!',
-    description:
-      "Resmi lansmanından sonra Logto Cloud'da ücretsiz <strong>60 gün</strong> aboneliğin tadını çıkarma şansını kaçırmayın! Daha fazla bilgi için hemen Logto ekibiyle iletişime geçin.",
-    check_out_button: 'Canlı önizlemeyi kontrol et',
-    email_us_title: 'Özel teklif ve fiyat detayları için bize e-posta gönderin',
-    email_us_description: 'Para kazanmak için özel fiyatlar alın',
-    email_us_button: 'E-posta gönderin',
-    join_description:
-      "Diğer geliştiricilerle bağlantı kurmak ve sohbet etmek için genel <a>{{link}}</a>'a katılın.",
-    discord_link: 'discord kanalı',
-    enter_admin_console: 'Logto Cloud Önizlemesine Girin',
-  },
   gift: {
     title: "Logto Cloud'u ücretsiz bir şekilde 60 gün kullanın. Öncüleri şimdi katılın!",
     description: 'Erken kredi için ekibimizle birebir görüşme için yer ayırın.',
